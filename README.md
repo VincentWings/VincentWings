@@ -1,5 +1,5 @@
 # 👋 Bonjour!
-I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer & Web Designer from France
+I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer & Web Designer from France.
 
 ## 👨🏻‍💻 About me
 * 💻 Front-End Developer and Web Designer
