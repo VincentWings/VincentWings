@@ -2,8 +2,9 @@
 👋 Hi there!
 I’m [Vincent Wings](http://vincentwings.com/), a Freelance Shopify Developer
 
-* 💻 Front-End Developer and Web Designer ✅ Available for remote contracts (working remotely since 2019)
-* ⭐️ E-commerce Shopify Expert 
+* 💻 Front-End Developer and Web Designer
+* ⭐️ E-commerce Shopify Expert
+* ✅ Available for remote contracts (working remotely since 2019)
 
 * 🌱 I’m currently learning React
 
