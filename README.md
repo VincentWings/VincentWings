@@ -10,6 +10,8 @@
 
 ## 🛠️ Languages and tools
 
+## My Skill Set
+
 ## 📫 How to reach me
 hello@vincentwings.com
 
