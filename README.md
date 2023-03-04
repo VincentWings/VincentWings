@@ -12,6 +12,9 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 ## 🛠️ Languages and tools
 Visual studio
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+
+<img src="https://img.shields.io/badge/HTML-message-brightgreen" alt="HTML" title="HTML">
 
 ## My Skill Set
 | Frontend | Web Design |
