@@ -8,7 +8,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * ✅ Available for remote contracts (working remotely since 2019)
 
 ## 🌱 What I'm currently learning
-* [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=E34F26)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=E34F26)](https://reactjs.org/)
 
 ## 🛠️ Languages
 [![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
