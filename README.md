@@ -12,6 +12,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
 ## 🛠️ Tools
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
@@ -24,8 +25,8 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 ## 📫 How to reach me
 hello@vincentwings.com
 
-## Linkedin
-https://www.linkedin.com/in/vincentwings/
+## Where to find me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=#2c61b6)](https://www.linkedin.com/in/vincentwings/)
 
 CV
 
