@@ -11,9 +11,9 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 
 ## 🛠️ Languages and tools
 Visual studio
-[![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5&logoColor=E34F26&style=for-the-badge)](https://www.w3.org/html/)
-[![Sass](https://img.shields.io/badge/-Sass-fff?&logo=Sass&logoColor=CC6699&style=for-the-badge)](https://sass-lang.com)
-[![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3&logoColor=1572B6&style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![HTML5](https://img.shields.io/badge/-HTML5-fff?&logo=HTML5&logoColor=E34F26&logoColor=F7DF1E&style=for-the-badge)](https://www.w3.org/html/)
+[![Sass](https://img.shields.io/badge/-Sass-fff?&logo=Sass&logoColor=CC6699&logoColor=F7DF1E&style=for-the-badge)](https://sass-lang.com)
+[![CSS3](https://img.shields.io/badge/-CSS3-fff?&logo=CSS3&logoColor=1572B6&logoColor=F7DF1E&style=for-the-badge)](https://developer.mozilla.org/fr/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E&style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## My Skill Set
