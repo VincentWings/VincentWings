@@ -1,4 +1,4 @@
-## About me
+## 👨🏻‍💻 About me
 👋 Hi there!
 I’m [Vincent Wings](http://vincentwings.com/), a Freelance Shopify Developer
 
