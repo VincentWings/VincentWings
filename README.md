@@ -1,5 +1,5 @@
 # 👋 Hi there!  
-<h1>
+<h1 style="border-bottom: 0;">
     I’m <a href="http://vincentwings.com/">Vincent Wings</a>, a Freelance Front-End Developer and Web Designer from France.
 </h1>
 
