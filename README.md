@@ -4,6 +4,7 @@ I’m [Vincent Wings](http://vincentwings.com/), a Freelance Shopify Developer
 
 * 💻 Front-End Developer and Web Designer
 * ⭐️ E-commerce Shopify Expert
+* 🚀 Empowering brands to reach their full potential with bespoke E-commerce stores on **Shopify** & **Shopify Plus**
 * ✅ Available for remote contracts (working remotely since 2019)
 
 * 🌱 I’m currently learning React
