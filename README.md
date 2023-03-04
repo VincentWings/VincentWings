@@ -1,7 +1,4 @@
-# 👋 Hi there!  
-<h1 style="border-bottom: 0;">
-    I’m <a href="http://vincentwings.com/">Vincent Wings</a>, a Freelance Front-End Developer and Web Designer from France.
-</h1>
+# 👋 Hi there!  I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer and Web Designer from France.
 
 ## 👨🏻‍💻 About me
 * 💻 Front-End Developer and Web Designer
