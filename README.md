@@ -1,5 +1,5 @@
 ## 👋 Hi there!
-I’m @VincentWings, a Freelance Shopify Developer
+I’m [Vincent Wings](http://vincentwings.com/), a Freelance Shopify Developer
 
 💻 Front-End Developer and Web Designer 
 ⭐️ E-commerce Shopify Expert 
