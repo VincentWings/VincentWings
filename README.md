@@ -16,7 +16,6 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## 🛠️ Tools
-Visual studio
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![VisualStudioCode](https://img.shields.io/badge/-vscode-000?style=for-the-badge&logo=vscode&logoColor=FFF)](https://www.github.com/)
