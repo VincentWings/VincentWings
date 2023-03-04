@@ -1,6 +1,7 @@
 ## 👨🏻‍💻 About me
 👋 Hi there!
 I’m [Vincent Wings](http://vincentwings.com/), a Freelance Shopify Developer from France
+🚀 I help brands to reach their full potential with bespoke E-commerce stores on Shopify & Shopify Plus
 
 * 💻 Front-End Developer and Web Designer
 * ⭐️ E-commerce Shopify Expert
