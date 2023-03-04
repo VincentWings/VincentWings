@@ -9,6 +9,7 @@
 * 🌱 I’m currently learning React
 
 ## 🛠️ Languages and tools
+Visual studio
 
 ## My Skill Set
 | Frontend | Web Design |
