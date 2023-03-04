@@ -26,7 +26,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 hello@vincentwings.com
 
 ## Where to find me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=#2c61b6)](https://www.linkedin.com/in/vincentwings/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=LinkedIn&logoColor=2c61b6)](https://www.linkedin.com/in/vincentwings/)
 
 CV
 
