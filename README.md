@@ -14,7 +14,6 @@
 | Frontend | Web Design |
 | --- | --- |
 | icons | icons |
-| icons | icons |
 
 ## 📫 How to reach me
 hello@vincentwings.com
