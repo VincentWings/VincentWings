@@ -9,18 +9,17 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 
 * 🌱 I’m currently learning React
 
-## 🛠️ Languages and tools
+## 🛠️ Languages
+[![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
+[![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
+[![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+## 🛠️ Tools
 Visual studio
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 
-## My Skill Set
-| Frontend | Web Design |
-| [![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-[![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | --- |
-| icons | icons |
 
 ## 📫 How to reach me
 hello@vincentwings.com
