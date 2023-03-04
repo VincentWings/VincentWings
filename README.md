@@ -19,6 +19,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 Visual studio
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+[![VisualStudioCode](https://img.shields.io/badge/-vscode-000?style=for-the-badge&logo=vscode&logoColor=FFF)](https://www.github.com/)
 
 
 ## 📫 How to reach me
