@@ -7,7 +7,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * 🚀 I help brands to reach their full potential with bespoke E-commerce stores on **Shopify** & **Shopify Plus**
 * ✅ Available for remote contracts (working remotely since 2019)
 
-* 🌱 What I'm currently learning
+## 🌱 What I'm currently learning
 * [![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&logoColor=E34F26)](https://reactjs.org/)
 
 ## 🛠️ Languages
