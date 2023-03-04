@@ -1,5 +1,7 @@
 # 👋 Hi there!  
-** I’m [Vincent Wings](http://vincentwings.com/), a Freelance Shopify Developer from France. **
+<span style="font-weight:700;font-size:20px">
+    I’m [Vincent Wings](http://vincentwings.com/), a Freelance Front-End Developer and Web Designer from France.
+</span>
 
 ## 👨🏻‍💻 About me
 * 💻 Front-End Developer and Web Designer
