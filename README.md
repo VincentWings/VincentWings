@@ -1,7 +1,7 @@
 # 👋 Hi there!  
-<span style="font-weight:700;font-size:20px">
+<h1>
     I’m [Vincent Wings](http://vincentwings.com/), a Freelance Front-End Developer and Web Designer from France.
-</span>
+</h1>
 
 ## 👨🏻‍💻 About me
 * 💻 Front-End Developer and Web Designer
