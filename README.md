@@ -21,6 +21,8 @@ hello@vincentwings.com
 ## Linkedin
 https://www.linkedin.com/in/vincentwings/
 
+CV
+
 <!---
 VincentWings/VincentWings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
