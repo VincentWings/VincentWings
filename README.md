@@ -5,7 +5,7 @@ I’m [Vincent Wings](http://vincentwings.com/), a Freelance Shopify Developer
 ⭐️ E-commerce Shopify Expert 
 ✅ Available for remote contracts
 
-## Languages and tools:
+## 🛠️ Languages and tools:
 
 ## 📫 How to reach me:
 hello@vincentwings.com
