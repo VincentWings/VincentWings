@@ -7,9 +7,6 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * 🚀 I help brands to reach their full potential with bespoke E-commerce stores on **Shopify** & **Shopify Plus**
 * ✅ Available for remote contracts (working remotely since 2019)
 
-## 🌱 What I'm currently learning
-[![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61d2f3)](https://reactjs.org/)
-
 ## 🛠️ Languages
 [![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
 [![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
@@ -21,6 +18,8 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![VisualStudioCode](https://img.shields.io/badge/-vscode-000?style=for-the-badge&logo=vscode&logoColor=FFF)](https://www.github.com/)
 
+## 🌱 What I'm currently learning
+[![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61d2f3)](https://reactjs.org/)
 
 ## 📫 How to reach me
 hello@vincentwings.com
