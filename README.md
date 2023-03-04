@@ -1,13 +1,16 @@
-👋 Hi, I’m @VincentWings, a Freelance Shopify Developer
+## 👋 Hi there!
+I’m @VincentWings, a Freelance Shopify Developer
 
 💻 Front-End Developer and Web Designer 
 ⭐️ E-commerce Shopify Expert 
 ✅ Available for remote contracts
 
-📫 How to reach me:
+## Languages and tools:
+
+## 📫 How to reach me:
 hello@vincentwings.com
 
-Linkedin:
+## Linkedin:
 https://www.linkedin.com/in/vincentwings/
 
 <!---
