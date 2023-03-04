@@ -11,6 +11,10 @@
 ## 🛠️ Languages and tools
 
 ## My Skill Set
+| Frontend | Web Design |
+| --- | --- |
+| icons | icons |
+| icons | icons |
 
 ## 📫 How to reach me
 hello@vincentwings.com
