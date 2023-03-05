@@ -14,12 +14,13 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://getbootstrap.com/))
 
-## 🛠️ Tools
+## 🛠️ Tools & OS
 [![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=F05032)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
-[![VisualStudioCode](https://img.shields.io/badge/-vscode-000?style=for-the-badge&logo=vscode&logoColor=FFF)](https://www.github.com/)
+[![VisualStudioCode](https://img.shields.io/badge/-vscode-000?style=for-the-badge&logo=vscode&logoColor=FFF)](https://code.visualstudio.com/)
 
 [![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com/fr/macos)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)](https://www.ubuntu.com/)
 
 ## 🌱 What I'm currently learning
 [![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61d2f3)](https://reactjs.org/)
