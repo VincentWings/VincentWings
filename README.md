@@ -23,7 +23,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)](https://www.ubuntu.com/)
 
 ## 🌱 What I'm currently learning
-[![React](https://img.shields.io/badge/-React-61d2f3?style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-React-61d2f3?logo=React&style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
 
 ## 📫 How to reach me
 hello@vincentwings.com
