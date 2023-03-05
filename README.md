@@ -24,6 +24,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 
 ## 🌱 What I'm currently learning
 [![React](https://img.shields.io/badge/-React-61d2f3?&style=for-the-badge&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-React-61d2f3?style=for-the-badge&logo=react&logoColor=fff)](https://reactjs.org)
 
 ## 📫 How to reach me
 hello@vincentwings.com
