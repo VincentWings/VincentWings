@@ -16,8 +16,8 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 
 ## 🛠️ Tools & OS
 [![Git](https://img.shields.io/badge/-Git-dd4c3a?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
-[![VisualStudioCode](https://img.shields.io/badge/-vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-15191d?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+[![VisualStudioCode](https://img.shields.io/badge/-vscode-53a7e8?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
 
 [![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com/fr/macos)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)](https://www.ubuntu.com/)
