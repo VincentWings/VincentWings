@@ -28,7 +28,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 ## 📫 How to reach me
 hello@vincentwings.com
 
-## Where to find me
+## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c61b6?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/vincentwings/)
 
 <!---
