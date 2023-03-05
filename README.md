@@ -26,7 +26,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![React](https://img.shields.io/badge/-React-61d2f3?style=for-the-badge&logo=React&logoColor=fff)](https://reactjs.org)
 
 ## 📫 How to reach me
-hello@vincentwings.com
+[![Gmail](https://img.shields.io/badge/-Gmail-2c61b6?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:hello@vincentwings.com)
 
 ## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c61b6?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/vincentwings/)
