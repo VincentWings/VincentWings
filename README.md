@@ -8,11 +8,11 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * ✅ Available for remote contracts (working remotely since 2019)
 
 ## 🛠️ Languages
-[![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
-[![Sass](https://img.shields.io/badge/-Sass-000?style=for-the-badge&logo=Sass&logoColor=CC6699)](https://sass-lang.com)
-[![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://getbootstrap.com/))
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=fff)](https://www.w3.org/html/)
+[![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)]([https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://getbootstrap.com/))
 
 ## 🛠️ Tools & OS
 [![Git](https://img.shields.io/badge/-Git-dd4c3a?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com/)
@@ -23,7 +23,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)](https://www.ubuntu.com/)
 
 ## 🌱 What I'm currently learning
-[![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&logoColor=61d2f3)](https://reactjs.org/)
+[![React](https://img.shields.io/badge/-React-61d2f3?style=for-the-badge&logo=react&logoColor=fff)](https://reactjs.org/)
 
 ## 📫 How to reach me
 hello@vincentwings.com
