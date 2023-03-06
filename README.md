@@ -10,6 +10,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 ## 🛠️ Languages, Tools & OS
 | --- | --- |
 | 1 | 2 |
+| --- | --- |
 
 | --- | --- |
 | CMS | [![Shopify](https://img.shields.io/badge/-Shopify-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://www.shopify.com/)
