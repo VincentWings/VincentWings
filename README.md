@@ -32,6 +32,11 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 ## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c61b6?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/vincentwings/)
 
+## 💼 Projects
+| Project Name | Skills used | Description |
+| --- | --- | --- |
+| [Rock Paper Scissors](https://github.com/vincentwings/rock/paper/scissors) | HTML, CSS, JAVASCRIPT | List all new or modified files |
+
 <!---
 VincentWings/VincentWings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
