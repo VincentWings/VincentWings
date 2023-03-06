@@ -8,6 +8,9 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * ✅ Available for remote contracts (working remotely since 2019)
 
 ## 🛠️ Languages, Tools & OS
+| Project Name | Skills used |
+| --- | --- |
+
 | --- | --- |
 | CMS | [![Shopify](https://img.shields.io/badge/-Shopify-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://www.shopify.com/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=fff)](https://www.wordpress.org/) |
