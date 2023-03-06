@@ -50,8 +50,8 @@ OS:
 | [Etch-a-Sketch](https://github.com/VincentWings/Etch-a-Sketch) | HTML, CSS, Javascript | An app that allows you to create drawings on a canvas using your keyboard arrow keys. |
 
 ## 📫 How to reach me
-[![Gmail](https://img.shields.io/badge/-hello@vincentwings.com-d8503f?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:hello@vincentwings.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c61b6?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/vincentwings/)
+[![Gmail](https://img.shields.io/badge/-hello@vincentwings.com-d8503f?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:hello@vincentwings.com)
 
 <!---
 VincentWings/VincentWings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
