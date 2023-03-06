@@ -7,7 +7,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * 🚀 I help brands to reach their full potential with bespoke E-commerce stores on **Shopify** & **Shopify Plus**
 * ✅ Available for remote contracts (working remotely since 2019)
 
-## 🛠️ Languages, Tools & OS
+## 🛠️ Skills
 CMS:  
 [![Shopify](https://img.shields.io/badge/-Shopify-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://www.shopify.com/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=fff)](https://www.wordpress.org/)
