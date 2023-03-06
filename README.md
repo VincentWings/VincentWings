@@ -29,10 +29,10 @@ Tools:
 Web design:  
 [![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma&logoColor=fff)](https://www.figma.com/)
 [![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=Sketch&logoColor=000)](https://www.sketch.com/)
-[![Photoshop](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobePhotoshop&logoColor=000)](https://www.adobe.com/)
-[![Illustrator](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobeIllustrator&logoColor=000)](https://www.adobe.com/)
-[![XD](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobexd&logoColor=000)](https://www.adobe.com/)
-[![Premiere](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobepremiere&logoColor=000)](https://www.adobe.com/)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-fdd32d?style=for-the-badge&logo=adobePhotoshop&logoColor=000)](https://www.adobe.com/)
+[![Illustrator](https://img.shields.io/badge/-Illustrator-fdd32d?style=for-the-badge&logo=adobeIllustrator&logoColor=000)](https://www.adobe.com/)
+[![XD](https://img.shields.io/badge/-XD-fdd32d?style=for-the-badge&logo=adobexd&logoColor=000)](https://www.adobe.com/)
+[![Premiere](https://img.shields.io/badge/-Premiere-fdd32d?style=for-the-badge&logo=adobepremierepro&logoColor=000)](https://www.adobe.com/)
 [![XD](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=finalcut&logoColor=000)](https://www.adobe.com/)
 
 OS:  
