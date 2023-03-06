@@ -8,6 +8,14 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * ✅ Available for remote contracts (working remotely since 2019)
 
 ## 🛠️ Languages, Tools & OS
+| Project Name | Skills used | Description |
+| --- | --- | --- |
+| CMS | HTML, CSS, Javascript | [![Shopify](https://img.shields.io/badge/-Shopify-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://www.shopify.com/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=fff)](https://www.wordpress.org/) |
+| Languages | HTML, CSS, Javascript | A JavaScript app that creates a memory card game. |
+| Tools | HTML, CSS, Javascript | An app that allows you to create drawings on a canvas using your keyboard arrow keys. |
+| OS | HTML, CSS, Javascript | An app that allows you to create drawings on a canvas using your keyboard arrow keys. |
+
 CMS: 
 [![Shopify](https://img.shields.io/badge/-Shopify-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://www.shopify.com/)
 [![Wordpress](https://img.shields.io/badge/-Wordpress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=fff)](https://www.wordpress.org/)
