@@ -9,7 +9,6 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 
 ## 🛠️ Languages, Tools & OS
 | --- | --- |
-| --- | --- |
 | 1 | 2 |
 
 | --- | --- |
