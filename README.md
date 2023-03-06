@@ -8,7 +8,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 * ✅ Available for remote contracts (working remotely since 2019)
 
 ## 🛠️ Languages, Tools & OS
-| --- | --- |
+| 1 | 2 |
 | 1 | 2 |
 | --- | --- |
 
