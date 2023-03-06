@@ -33,8 +33,6 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/-hello@vincentwings.com-d8503f?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:hello@vincentwings.com)
-
-## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c61b6?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/vincentwings/)
 
 <!---
