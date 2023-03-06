@@ -31,7 +31,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 | --- | --- | --- |
 | [Rock Paper Scissors](https://github.com/vincentwings/rock-paper-scissors) | HTML, CSS, Javascript | A Javascript game that allows a player to play against the computer. |
 | [Memory Card Game](https://github.com/VincentWings/memory-game) | HTML, CSS, Javascript | A JavaScript app that creates a memory card game. |
-| [Etch-a-Sketch app](https://github.com/VincentWings/Etch-a-Sketch) | HTML, CSS, Javascript | Etch-a-Sketch is an app that allows you to create drawings on a canvas using your keyboard arrow keys. |
+| [Etch-a-Sketch](https://github.com/VincentWings/Etch-a-Sketch) | HTML, CSS, Javascript | An app that allows you to create drawings on a canvas using your keyboard arrow keys. |
 
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/-hello@vincentwings.com-d8503f?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:hello@vincentwings.com)
