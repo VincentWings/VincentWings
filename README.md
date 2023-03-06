@@ -9,7 +9,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 
 ## 🛠️ Languages, Tools & OS
 [![Shopify](https://img.shields.io/badge/-Shopify-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://www.shopify.com/)
-[![Wordpress](https://img.shields.io/badge/-Shopify-0675c4?style=for-the-badge&logo=Wordpress&logoColor=fff)](https://www.wordpress.org/)
+[![Wordpress](https://img.shields.io/badge/-Wordpress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=fff)](https://www.wordpress.org/)
 [![HTML5](https://img.shields.io/badge/-HTML5-d96b3a?style=for-the-badge&logo=HTML5&logoColor=fff)](https://www.w3.org/html/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/fr/docs/Web/CSS)
