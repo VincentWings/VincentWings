@@ -26,7 +26,7 @@ Tools:
 [![GitHub](https://img.shields.io/badge/-GitHub-15191d?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![VisualStudioCode](https://img.shields.io/badge/-vscode-53a7e8?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma&logoColor=fff)](https://www.figma.com/)
-[![Sketch](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Sketch&logoColor=fff)](https://www.sketch.com/)
+[![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=Sketch&logoColor=fff)](https://www.sketch.com/)
 
 OS:  
 [![Windows](https://img.shields.io/badge/-Windows-3376cd?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/)
