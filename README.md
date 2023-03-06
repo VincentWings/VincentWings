@@ -26,16 +26,16 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 ## 🌱 What I'm currently learning
 [![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
 
+## 💼 Projects
+| Project Name | Skills used | Description |
+| --- | --- | --- |
+| [Rock Paper Scissors](https://github.com/vincentwings/rock-paper-scissors) | HTML, CSS, Javascript | This JavaScript code creates a digital version of the game that allows a player to play against the computer. |
+
 ## 📫 How to reach me
 [![Gmail](https://img.shields.io/badge/-hello@vincentwings.com-d8503f?style=for-the-badge&logo=Gmail&logoColor=fff)](mailto:hello@vincentwings.com)
 
 ## 🌐 Where to find me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c61b6?style=for-the-badge&logo=LinkedIn&logoColor=fff)](https://www.linkedin.com/in/vincentwings/)
-
-## 💼 Projects
-| Project Name | Skills used | Description |
-| --- | --- | --- |
-| [Rock Paper Scissors](https://github.com/vincentwings/rock-paper-scissors) | HTML, CSS, Javascript | This JavaScript code creates a digital version of the game that allows a player to play against the computer. |
 
 <!---
 VincentWings/VincentWings is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
