@@ -17,9 +17,7 @@ I’m [Vincent Wings](http://vincentwings.com), a Freelance Front-End Developer 
 [![Git](https://img.shields.io/badge/-Git-dd4c3a?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-15191d?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![VisualStudioCode](https://img.shields.io/badge/-vscode-53a7e8?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
-
 [![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma&logoColor=fff)](https://www.figma.com/)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-081d34?style=for-the-badge&logo=Photoshop&logoColor=fff)](https://www.photoshop.com/)
 
 [![Windows](https://img.shields.io/badge/-Windows-3376cd?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/)
 [![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com/fr/macos)
