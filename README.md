@@ -25,6 +25,8 @@ Tools:
 [![Git](https://img.shields.io/badge/-Git-dd4c3a?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-15191d?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
 [![VisualStudioCode](https://img.shields.io/badge/-vscode-53a7e8?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
+
+Web design:  
 [![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma&logoColor=fff)](https://www.figma.com/)
 [![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=Sketch&logoColor=000)](https://www.sketch.com/)
 [![Photoshop](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobePhotoshop&logoColor=000)](https://www.adobe.com/)
