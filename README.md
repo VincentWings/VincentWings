@@ -27,11 +27,11 @@ Tools:
 [![VisualStudioCode](https://img.shields.io/badge/-vscode-53a7e8?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
 [![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma&logoColor=fff)](https://www.figma.com/)
 [![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=Sketch&logoColor=000)](https://www.sketch.com/)
-[![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=Adobe&logoColor=000)](https://www.sketch.com/)
-[![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobePhotoshop&logoColor=000)](https://www.sketch.com/)
-[![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobeIllustrator&logoColor=000)](https://www.sketch.com/)
-[![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobexd&logoColor=000)](https://www.sketch.com/)
-[![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=xd&logoColor=000)](https://www.sketch.com/)
+[![Photoshop](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobePhotoshop&logoColor=000)](https://www.adobe.com/)
+[![Illustrator](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobeIllustrator&logoColor=000)](https://www.adobe.com/)
+[![XD](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobexd&logoColor=000)](https://www.adobe.com/)
+[![Premiere](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=adobepremiere&logoColor=000)](https://www.adobe.com/)
+[![XD](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=finalcut&logoColor=000)](https://www.adobe.com/)
 
 OS:  
 [![Windows](https://img.shields.io/badge/-Windows-3376cd?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/)
