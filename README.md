@@ -71,7 +71,6 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & UI/UX Desig
 | --- | --- | --- |
 | [HRnet](https://github.com/VincentWings/HRnet) | React, JavaScript | HR management app |
 | [React-Modal](https://github.com/VincentWings/React-Modal) | React, JavaScript | Reusable modal component for React apps |
-| [Billed](https://github.com/VincentWings/Billed) | HTML, CSS, JavaScript | Expense report management app |
 | [Ohmyfood](https://github.com/VincentWings/Ohmyfood) | HTML, CSS, JavaScript | Online meal ordering website |
 | [Booki](https://github.com/VincentWings/Booki) | HTML, CSS | Accommodation and activity booking website |
 | [Rock Paper Scissors](https://github.com/VincentWings/rock-paper-scissors) | HTML, CSS, JavaScript | A game of rock-paper-scissors against the computer |
