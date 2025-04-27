@@ -38,6 +38,8 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & Web Designe
 [![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470437?style=for-the-badge&logo=AdobeXD&logoColor=fff)](https://adobe.com/)
 [![Photoshop](https://img.shields.io/badge/-Photoshop-061f35?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)](https://adobe.com/)
 [![Illustrator](https://img.shields.io/badge/-Illustrator-2f110f?style=for-the-badge&logo=AdobeIllustrator&logoColor=fff)](https://adobe.com/)
+
+**Video:**  
 [![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=fff)](https://adobe.com/products/aftereffects.html)
 [![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-1f1b56?style=for-the-badge&logo=AdobePremierePro&logoColor=fff)](https://adobe.com/)
 [![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=fff)](https://apple.com/final-cut-pro/)
