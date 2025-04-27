@@ -69,16 +69,15 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & UI/UX Desig
 
 | Project Name | Skills Used | Description |
 | --- | --- | --- |
-| [Rock Paper Scissors](https://github.com/VincentWings/rock-paper-scissors) | HTML, CSS, JavaScript | A game of rock-paper-scissors against the computer |
-| [Memory Card Game](https://github.com/VincentWings/memory-game) | HTML, CSS, JavaScript | A JavaScript memory card game |
-| [Etch-a-Sketch](https://github.com/VincentWings/Etch-a-Sketch) | HTML, CSS, JavaScript | Drawing app using keyboard arrow keys |
 | [React-Modal](https://github.com/VincentWings/React-Modal) | React, JavaScript | Reusable modal component for React apps |
 | [HRnet](https://github.com/VincentWings/HRnet) | React, JavaScript | HR management app |
 | [Billed](https://github.com/VincentWings/Billed) | HTML, CSS, JavaScript | Expense report management app |
 | [Portfolio](https://github.com/VincentWings/Portfolio) | HTML, CSS, JavaScript | My personal portfolio |
 | [Ohmyfood](https://github.com/VincentWings/Ohmyfood) | HTML, CSS, JavaScript | Online meal ordering website |
-| [La Chouette Agence](https://github.com/VincentWings/La-Chouette-Agence) | HTML, CSS | Showcase website for a fictional agency |
 | [Booki](https://github.com/VincentWings/Booki) | HTML, CSS | Accommodation and activity booking website |
+| [Rock Paper Scissors](https://github.com/VincentWings/rock-paper-scissors) | HTML, CSS, JavaScript | A game of rock-paper-scissors against the computer |
+| [Memory Card Game](https://github.com/VincentWings/memory-game) | HTML, CSS, JavaScript | A JavaScript memory card game |
+| [Etch-a-Sketch](https://github.com/VincentWings/Etch-a-Sketch) | HTML, CSS, JavaScript | Drawing app using keyboard arrow keys |
 
 ## 📫 How to reach me
 
