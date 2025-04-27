@@ -42,9 +42,9 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & UI/UX Desig
 [![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=fff)](https://www.apple.com/final-cut-pro/)
 [![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=fff)](https://www.adobe.com/products/aftereffects.html)
 
-**OS:**
-[![Windows](https://img.shields.io/badge/-Windows-3376cd?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/)
-[![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com/fr/macos)
+**OS:**  
+[![Windows](https://img.shields.io/badge/-Windows-3376cd?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/) 
+[![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com/fr/macos) 
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)](https://www.ubuntu.com/)
 
 ## 🌱 What I'm currently learning
