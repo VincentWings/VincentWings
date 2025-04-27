@@ -73,6 +73,12 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & UI/UX Desig
 | [React-Modal](https://github.com/VincentWings/React-Modal) | React, JavaScript | Reusable modal component for React apps |
 | [Ohmyfood](https://github.com/VincentWings/Ohmyfood) | HTML, CSS, JavaScript | Online meal ordering website |
 | [Booki](https://github.com/VincentWings/Booki) | HTML, CSS | Accommodation and activity booking website |
+| [Argent Bank](https://github.com/VincentWings/ArgentBank) | React, Redux, JavaScript | Online banking application built with React |
+| [SportSee](https://github.com/VincentWings/SportSee) | React, JavaScript, Recharts | Sports analytics dashboard |
+| [Kasa](https://kasa-vincent-wings-projects.vercel.app/) | React, JavaScript | Real estate rental website |
+| [Les Petits Plats](https://github.com/VincentWings/LesPetitsPlats) | JavaScript, HTML, CSS | Recipe search application |
+| [Fisheye](https://github.com/VincentWings/Fisheye) | JavaScript, HTML, CSS | Photography portfolio website |
+| [GameOn](https://vincentwings.github.io/GameOn-website-FR/) | HTML, CSS, JavaScript | Event registration website |
 | [Rock Paper Scissors](https://github.com/VincentWings/rock-paper-scissors) | HTML, CSS, JavaScript | A game of rock-paper-scissors against the computer |
 | [Memory Card Game](https://github.com/VincentWings/memory-game) | HTML, CSS, JavaScript | A JavaScript memory card game |
 | [Etch-a-Sketch](https://github.com/VincentWings/Etch-a-Sketch) | HTML, CSS, JavaScript | Drawing app using keyboard arrow keys |
