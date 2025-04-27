@@ -7,7 +7,7 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & Web Designe
 - 🎯 Specialist in E-commerce & Fashion websites
 - 🛒 Shopify Developer & Front-End Developer
 - 🧩 Theme Development, Custom Shopify Themes, Shopify Plus
-- 🌍 10 years experience in London working with various brands and digital projects
+- 🌍 +10 years experience in London working with various brands and digital projects
 - 🌱 Currently specializing in **JavaScript** & **React**, focusing on optimization, accessibility, and Green Coding
 - 🎯 Available for a permanent position in London, UK. Open to agency or in-house roles, ready to contribute to projects of all sizes.
 
