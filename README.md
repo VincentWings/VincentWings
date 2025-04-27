@@ -53,16 +53,16 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & UI/UX Desig
 ## 🤖 AI Tools
 
 **AI Assistants:**  
-[![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=fff)](https://chat.openai.com/)  
+[![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=fff)](https://chat.openai.com/)
 [![DeepSeek](https://img.shields.io/badge/-DeepSeek-1a1a1a?style=for-the-badge&logoColor=fff)](https://www.deepseek.com/)
 
 **Image Generation:**  
 [![Midjourney](https://img.shields.io/badge/-Midjourney-000000?style=for-the-badge&logoColor=fff)](https://www.midjourney.com/)
 
 **Audio & Voice Generation:**  
-[![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=for-the-badge&logoColor=fff)](https://elevenlabs.io/)  
-[![Suno](https://img.shields.io/badge/-Suno-ff7a00?style=for-the-badge&logoColor=fff)](https://www.suno.ai/)  
-[![Murf](https://img.shields.io/badge/-Murf-1f2937?style=for-the-badge&logoColor=fff)](https://murf.ai/)  
+[![ElevenLabs](https://img.shields.io/badge/-ElevenLabs-000000?style=for-the-badge&logoColor=fff)](https://elevenlabs.io/)
+[![Suno](https://img.shields.io/badge/-Suno-ff7a00?style=for-the-badge&logoColor=fff)](https://www.suno.ai/)
+[![Murf](https://img.shields.io/badge/-Murf-1f2937?style=for-the-badge&logoColor=fff)](https://murf.ai/)
 [![Kling](https://img.shields.io/badge/-Kling-6c63ff?style=for-the-badge&logoColor=fff)](https://www.kling.ai/)
 
 ## 💼 Projects
