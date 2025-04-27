@@ -1,5 +1,5 @@
 # 👋 Bonjour!
-I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & UI/UX Designer based in France.
+I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & Web Designer based in France.
 
 ## 👨🏻‍💻 About me
 
