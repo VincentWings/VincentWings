@@ -15,37 +15,37 @@ I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & UI/UX Desig
 
 **CMS:**  
 [![Shopify](https://img.shields.io/badge/-Shopify-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://www.shopify.com/)
-[![Wordpress](https://img.shields.io/badge/-Wordpress-0675c4?style=for-the-badge&logo=Wordpress&logoColor=fff)](https://www.wordpress.org/)
+[![WordPress](https://img.shields.io/badge/-WordPress-0675c4?style=for-the-badge&logo=WordPress&logoColor=fff)](https://wordpress.org/)
 
-**Languages:**   
+**Languages:**  
 [![HTML5](https://img.shields.io/badge/-HTML5-d96b3a?style=for-the-badge&logo=HTML5&logoColor=fff)](https://www.w3.org/html/)
 [![Sass](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff)](https://sass-lang.com)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/fr/docs/Web/CSS)
-[![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)  
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=React&logoColor=white)](https://reactjs.org)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery](https://img.shields.io/badge/-jQuery-78cff5?style=for-the-badge&logo=jQuery&logoColor=000)](https://jquery.com/)
+[![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=fff)](https://jquery.com/)
 [![Liquid](https://img.shields.io/badge/-Liquid-9fbf58?style=for-the-badge&logo=Shopify&logoColor=fff)](https://shopify.com)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=Bootstrap&logoColor=fff)](https://getbootstrap.com/)
 
 **Tools:**  
 [![Git](https://img.shields.io/badge/-Git-dd4c3a?style=for-the-badge&logo=Git&logoColor=fff)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-15191d?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://www.github.com/)
-[![VisualStudioCode](https://img.shields.io/badge/-vscode-53a7e8?style=for-the-badge&logo=visual-studio-code&logoColor=FFF)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-15191d?style=for-the-badge&logo=GitHub&logoColor=FFF)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=FFF)](https://code.visualstudio.com/)
 
-**Web Design:**   
-[![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma&logoColor=fff)](https://www.figma.com/)
-[![Sketch](https://img.shields.io/badge/-Sketch-fdd32d?style=for-the-badge&logo=Sketch&logoColor=000)](https://www.sketch.com/)
-[![Adobe XD](https://img.shields.io/badge/-XD-470437?style=for-the-badge&logo=adobexd&logoColor=fff)](https://www.adobe.com/)
-[![Photoshop](https://img.shields.io/badge/-Photoshop-061f35?style=for-the-badge&logo=adobePhotoshop&logoColor=fff)](https://www.adobe.com/)
-[![Illustrator](https://img.shields.io/badge/-Illustrator-2f110f?style=for-the-badge&logo=adobeIllustrator&logoColor=fff)](https://www.adobe.com/)
-[![Premiere Pro](https://img.shields.io/badge/-Premiere-1f1b56?style=for-the-badge&logo=adobepremierepro&logoColor=fff)](https://www.adobe.com/)
-[![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=fff)](https://www.apple.com/final-cut-pro/)
-[![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=fff)](https://www.adobe.com/products/aftereffects.html)
+**Web Design:**  
+[![Figma](https://img.shields.io/badge/-Figma-1e1e1e?style=for-the-badge&logo=Figma&logoColor=fff)](https://figma.com/)
+[![Sketch](https://img.shields.io/badge/-Sketch-f7b500?style=for-the-badge&logo=Sketch&logoColor=000)](https://sketch.com/)
+[![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-470437?style=for-the-badge&logo=AdobeXD&logoColor=fff)](https://adobe.com/)
+[![Photoshop](https://img.shields.io/badge/-Photoshop-061f35?style=for-the-badge&logo=AdobePhotoshop&logoColor=fff)](https://adobe.com/)
+[![Illustrator](https://img.shields.io/badge/-Illustrator-2f110f?style=for-the-badge&logo=AdobeIllustrator&logoColor=fff)](https://adobe.com/)
+[![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=fff)](https://adobe.com/products/aftereffects.html)
+[![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-1f1b56?style=for-the-badge&logo=AdobePremierePro&logoColor=fff)](https://adobe.com/)
+[![Final Cut Pro](https://img.shields.io/badge/-Final_Cut_Pro-000000?style=for-the-badge&logo=apple&logoColor=fff)](https://apple.com/final-cut-pro/)
 
 **OS:**  
-[![Windows](https://img.shields.io/badge/-Windows-3376cd?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/) 
-[![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?style=for-the-badge&logo=Apple&logoColor=fff)](https://www.apple.com/fr/macos) 
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)](https://www.ubuntu.com/)
+[![Windows](https://img.shields.io/badge/-Windows-3376cd?style=for-the-badge&logo=Windows&logoColor=fff)](https://www.microsoft.com/)
+[![macOS](https://img.shields.io/badge/-Mac%20OS-999999?style=for-the-badge&logo=Apple&logoColor=fff)](https://apple.com/macos/)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000)](https://ubuntu.com/)
 
 ## 🌱 What I'm currently learning
 [![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org)
