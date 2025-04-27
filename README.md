@@ -1,11 +1,11 @@
 # 👋 Bonjour!
-I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & Web Designer based in France.
+I'm [Vincent Wings](http://vincentwings.fr), a Front-End Developer & Web Designer
 
 ## 👨🏻‍💻 About me
 
-- 💻 Front-End Developer & UI/UX Designer
-- 🛒 Shopify Developer & Front-End Developer
+- 💻 Front-End Developer & Web Designer
 - 🎯 Specialist in E-commerce & Fashion websites
+- 🛒 Shopify Developer & Front-End Developer
 - 🧩 Theme Development, Custom Shopify Themes, Shopify Plus
 - 🌍 10 years experience in London working with various brands and digital projects
 - 🌱 Currently specializing in **JavaScript** & **React**, focusing on optimization, accessibility, and Green Coding
